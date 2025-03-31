@@ -5,3 +5,7 @@
   *Download speed:how quickly data is transferred from the internet to ur device
   *Upload speed:how quickly data is sent from ur device to the internet
   *ping:time taken for data packet to travel fromur device to a server and back.
+
+3.Ghibli -style anime image using stable diffusion & diffusers library.
+
+4.Ghibli-style image back to a normal(realistic)image using AI-based image de-stylized technique.
