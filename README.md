@@ -9,3 +9,9 @@
 3.Ghibli -style anime image using stable diffusion & diffusers library.
 
 4.Ghibli-style image back to a normal(realistic)image using AI-based image de-stylized technique.
+
+5.QR code using python
+
+6.Google Earth in python
+
+7.Arc Twirl pattern 
